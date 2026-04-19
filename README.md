@@ -49,10 +49,13 @@ Using `INPUT_PULLUP`
 * All GND → GND
 
 ## Code
-
 Code is available in the `.ino` file.
 
 ## Applications
 * Smart home security
 * Office access system
 * Locker security
+
+![Diagram](diagramsblock_diagram.png)
+![Flowchart](diagramsflowchart.png)
+![Setup](working.jpg)
