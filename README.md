@@ -56,6 +56,12 @@ Code is available in the `.ino` file.
 * Office access system
 * Locker security
 
+## Circuit Diagram
 ![Diagram](diagramsblock_diagram.png)
+
+## Flow Chart
 ![Flowchart](diagramsflowchart.png)
+
+## Setup/Working
 ![Setup](working.jpg)
+![project].(Project Setup using Ardiuno Uno.jpg).
